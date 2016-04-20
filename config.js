@@ -1,8 +1,8 @@
 window.MillConfig = {
-  title: 'Mill',
+  title: 'FX的所思所惑',
   github: {
-    owner: 'graffie',
-    repo: 'mill.blog',
+    owner: 'friskfly',
+    repo: 'friskfly.github.io',
   },
   theme: 'basic'
 };
